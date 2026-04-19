@@ -38,6 +38,3 @@ python src/label_reviews.py
 # 步骤3：结果分析
 python src/analyze_results.py
 ```
-=======
-# review-labeling
->>>>>>> 8f560fa9b9a80fdb8beca5916eccc68c62e69336
